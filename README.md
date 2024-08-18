@@ -109,3 +109,10 @@ Accuracy of happiness: 89.66%
 Accuracy of neutral: 86.60%
 Accuracy of sadness: 45.21%
 Accuracy of surprise: 80.78%
+
+For model creationg, comparison and tuning see :
+- Tiny_VGG_model_training.ipynb
+
+For model only see :
+- Tiny_VGG.ipynb
+
